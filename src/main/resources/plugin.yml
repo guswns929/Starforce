@@ -1,0 +1,6 @@
+name: Startier
+version: '1.0'
+main: me.guswnserver.startier.Startier
+api-version: 1.19
+authors: [ guswns929 ]
+description: An RPG-inspired gear enhancement system

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Startier:jar">
+    <output-path>$USER_HOME$/Downloads/server/plugins</output-path>
+    <root id="archive" name="Startier.jar">
+      <element id="module-output" name="Startier" />
+    </root>
+  </artifact>
+</component>
